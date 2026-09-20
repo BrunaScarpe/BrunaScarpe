@@ -17,7 +17,7 @@ Estou constantemente aprimorando meus conhecimentos em novas tecnologias e boas 
             title="bruhhp13@gmail.com" 
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/brunascarpe/">
         <img 
             alt="LinkedIn" 
