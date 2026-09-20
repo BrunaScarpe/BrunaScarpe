@@ -62,7 +62,7 @@ Estou constantemente aprimorando meus conhecimentos em novas tecnologias e boas 
 <img
     align="left"
     alt="Oracle"
-    title="Oracle"
+    title="SQL Developer"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
