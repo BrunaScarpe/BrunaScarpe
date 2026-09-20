@@ -17,11 +17,12 @@ Estou constantemente aprimorando meus conhecimentos em novas tecnologias e boas 
             title="bruhhp13@gmail.com" 
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
-    </a>&nbsp;
+    </a>
     <a href="https://www.linkedin.com/in/brunascarpe/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
+            style="margin-left: 5px;"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin"
         />
     </a>
